@@ -1,0 +1,64 @@
+TpTab:AddButton({
+	Name = "Full court 1s.",
+	Callback = function()
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(390.515564, 55.2382507, -202.602493, -0.999978602, 1.07332502e-12, -0.00654343981, 1.07120768e-12, 1, 3.27084036e-13, 0.00654343981, 3.20067649e-13, -0.999978602)
+  	end    
+})
+
+TpTab:AddButton({
+	Name = "Full court 2s.",
+	Callback = function()
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(389.957214, 54.0888443, -381.100922, -0.999978602, 0, 0.00654332712, 0, 1, 0, -0.00654332712, 0, -0.999978602)
+  	end    
+})
+
+TpTab:AddButton({
+	Name = "Full court 3s and 4s.",
+	Callback = function()
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2.52244329, 56.438839, -735.887695, 0.0209774226, -1.23797284e-09, -0.99977994, 8.36034619e-09, 1, -1.06282827e-09, 0.99977994, -8.33621172e-09, 0.0209774226)
+  	end    
+})
+
+
+TpTab:AddButton({
+	Name = "Half Court A.",
+	Callback = function()
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(292.873505, 40.8460236, -758.430176, 0.999978721, 2.60570455e-13, 0.00652447063, -2.663563e-13, 1, 8.85923767e-13, -0.00652447063, -8.87642715e-13, 0.999978721)
+  	end    
+})
+
+
+TpTab:AddButton({
+	Name = "Half Court B.",
+	Callback = function()
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(292.1203, 40.8460274, -714.499146, -0.999914467, 1.04259982e-12, -0.0130785741, 1.08723198e-12, 1, -3.4055096e-12, 0.0130785741, -3.41943791e-12, -0.999914467)
+  	end    
+})
+
+TpTab:AddButton({
+	Name = "Half Court C.",
+	Callback = function()
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(489.455475, 40.8460236, -758.236267, 1, -1.84399566e-12, -5.17110495e-27, 1.84399566e-12, 1, 2.7986888e-12, -5.15559847e-24, -2.7986888e-12, 1)
+  	end    
+})
+
+TpTab:AddButton({
+	Name = "Half Court D.",
+	Callback = function()
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(490.186157, 40.8460274, -714.345459, -0.999978542, -3.97154878e-12, -0.00655319355, -3.88795203e-12, 1, -1.27693932e-11, 0.00655319355, -1.27436412e-11, -0.999978542)
+  	end    
+})
+
+TpTab:AddButton({
+	Name = "Half Court A, 2v2s.",
+	Callback = function()
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-181.104004, 57.1170425, -647.133423, -0.0196162406, 8.77908768e-09, 0.999807596, -1.33537692e-09, 1, -8.80697737e-09, -0.999807596, -1.50787982e-09, -0.0196162406)
+  	end    
+})
+
+TpTab:AddButton({
+	Name = "Half Court B, 2v2s.",
+	Callback = function()
+		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-181.008713, 57.1170425, -829.06427, 6.87702559e-05, -1.59635513e-10, 1, -2.21905037e-08, 1, 1.6116157e-10, -1, -2.21905161e-08, 6.87702559e-05)
+  	end    
+})
